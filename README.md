@@ -77,6 +77,12 @@ Here is the parts list for the DC converter. Of course you don't have to use exa
 
 
 
+# PCB
+
+The PCB can either be ordered directly from [PCBWay](https://www.pcbway.com/project/shareproject/DC5V_2A_Power_Converter.html), or you can create it yourself from the Gerber files available here.
+
+[![PCBWay](https://www.pcbway.com/project/img/images/frompcbway.png)](https://www.pcbway.com/project/shareproject/DC5V_2A_Power_Converter.html)
+
 
 
 If you liked my project, I would be very happy about a small coffee donation.
