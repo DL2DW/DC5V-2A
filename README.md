@@ -57,23 +57,23 @@ I once created a 3D image, because I unfortunately could not get sharp photos.
 
 Here is the parts list for the DC converter. Of course you don't have to use exactly these brands. However, I give to note that comparison types, especially if they have a somewhat poorer quality, can have a negative effect on the ripple.
 
-| Quantity | Designator | Manufacturer 1                | Manufacturer  Part Number 1 | Description                                                  |
-| -------- | ---------- | ----------------------------- | --------------------------- | ------------------------------------------------------------ |
-| 1        | C1         | Murata                        | GRM155R71A104KA01D          | CAP  CER 0.1UF 10V X7R 0402                                  |
-| 1        | C2         | Murata                        | GRM32ER61C226ME20L          | Ceramic  capacitor SMD 1210 22 µF 16 V 20 %                  |
-| 2        | C3,  C4    | Murata                        | GRM21BR61A226ME44L          | Multilayer  Ceramic Capacitors MLCC - SMD/SMT 0805 22uF 10volts X5R 20% |
-| 1        | C5         | Samsung                       | CL21C100JBANNNC             | Cap  Ceramic 10pF 50VDC C0G 5% SMD 0805 Paper T/R            |
-| 1        | C6         | Murata                        | GRM033R71A822KA01D          | Multilayer  Ceramic Capacitors MLCC - SMD/SMT 0.0082uF 10volts 10% |
-| 1        | C7         | Samsung                       | CL21C122JBFNNNE             | Ceramic  capacitor SMD-0805 1.2nF /50V NP0# J +-5% SAMSUNG , RoHS |
-| 2        | CN1,  CN2  | Mill-Max                      | 3125-2-00-80-00-00-08-0     | CONN  PC PIN CIRC 0.040DIA TIN                               |
-| 1        | D1         | ON  Semiconductor / Fairchild | SS24FL                      | 40V,  2A SCHOTTKY IN SOD123F                                 |
-| 1        | L1         | Eaton  Cooper                 | DR73-4R7-R                  | Ind  Power Shielded Wirewound 4.7uH 20% 100KHz Ferrite 3.09A T/R |
-| 1        | R1         | Vishay                        | CRCW0402169KFKED            | VISHAY  - CRCW0402169KFKED - RES, THICK FILM, 169K, 1%, 0.063W, 0402, REEL |
-| 1        | R2         | Vishay                        | CRCW040210K2FKED            | VISHAY     CRCW040210K2FKED.      Surface Mount Chip Resistor,  Thick Film, AEC-Q200 CRCW Series, 10.2 kohm, 63 mW, 1%, 50 V |
-| 1        | R3         | Vishay                        | CRCW040233K2FKED            | Res  Thick Film 0402 33.2K Ohm 1% 1/16W 100ppm/C Molded SMD Paper T/R |
-| 1        | R4         | Vishay                        | CRCW040240K2FKED            | Res  Thick Film 0402 40.2K Ohm 1% 1/16W 100ppm/C Molded SMD SMD Paper T/R |
-| 1        | R5         | Vishay                        | CRCW04021K96FKED            | VISHAY     CRCW04021K96FKED       RES, THICK FILM, 1K96, 1%,  0.063W, 0402 |
-| 1        | U1         | Texas  Instruments            | TPS54332DDAR                | TEXAS  INSTRUMENTS - TPS54332DDAR - DC/DC CONV, BUCK, 1MHZ, SOIC-8 |
+| Quantity | Designator | Manufacturer                  | Part -Number            | Description                                                  |
+| -------- | ---------- | ----------------------------- | ----------------------- | ------------------------------------------------------------ |
+| 1        | C1         | Murata                        | GRM155R71A104KA01D      | CAP  CER 0.1UF 10V X7R 0402                                  |
+| 1        | C2         | Murata                        | GRM32ER61C226ME20L      | Ceramic  capacitor SMD 1210 22 µF 16 V 20 %                  |
+| 2        | C3,  C4    | Murata                        | GRM21BR61A226ME44L      | Multilayer  Ceramic Capacitors MLCC - SMD/SMT 0805 22uF 10volts X5R 20% |
+| 1        | C5         | Samsung                       | CL21C100JBANNNC         | Cap  Ceramic 10pF 50VDC C0G 5% SMD 0805 Paper T/R            |
+| 1        | C6         | Murata                        | GRM033R71A822KA01D      | Multilayer  Ceramic Capacitors MLCC - SMD/SMT 0.0082uF 10volts 10% |
+| 1        | C7         | Samsung                       | CL21C122JBFNNNE         | Ceramic  capacitor SMD-0805 1.2nF /50V NP0# J +-5% SAMSUNG , RoHS |
+| 2        | CN1,  CN2  | Mill-Max                      | 3125-2-00-80-00-00-08-0 | CONN  PC PIN CIRC 0.040DIA TIN                               |
+| 1        | D1         | ON  Semiconductor / Fairchild | SS24FL                  | 40V,  2A SCHOTTKY IN SOD123F                                 |
+| 1        | L1         | Eaton  Cooper                 | DR73-4R7-R              | Ind  Power Shielded Wirewound 4.7uH 20% 100KHz Ferrite 3.09A T/R |
+| 1        | R1         | Vishay                        | CRCW0402169KFKED        | VISHAY  - CRCW0402169KFKED - RES, THICK FILM, 169K, 1%, 0.063W, 0402, REEL |
+| 1        | R2         | Vishay                        | CRCW040210K2FKED        | VISHAY     CRCW040210K2FKED.      Surface Mount Chip Resistor,  Thick Film, AEC-Q200 CRCW Series, 10.2 kohm, 63 mW, 1%, 50 V |
+| 1        | R3         | Vishay                        | CRCW040233K2FKED        | Res  Thick Film 0402 33.2K Ohm 1% 1/16W 100ppm/C Molded SMD Paper T/R |
+| 1        | R4         | Vishay                        | CRCW040240K2FKED        | Res  Thick Film 0402 40.2K Ohm 1% 1/16W 100ppm/C Molded SMD SMD Paper T/R |
+| 1        | R5         | Vishay                        | CRCW04021K96FKED        | VISHAY     CRCW04021K96FKED       RES, THICK FILM, 1K96, 1%,  0.063W, 0402 |
+| 1        | U1         | Texas  Instruments            | TPS54332DDAR            | TEXAS  INSTRUMENTS - TPS54332DDAR - DC/DC CONV, BUCK, 1MHZ, SOIC-8 |
 
 
 
