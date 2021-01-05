@@ -74,6 +74,7 @@ Here is the parts list for the DC converter. Of course you don't have to use exa
 | 1        | R4         | Vishay                        | CRCW040240K2FKED        | Res  Thick Film 0402 40.2K Ohm 1% 1/16W 100ppm/C Molded SMD SMD Paper T/R |
 | 1        | R5         | Vishay                        | CRCW04021K96FKED        | VISHAY     CRCW04021K96FKED       RES, THICK FILM, 1K96, 1%,  0.063W, 0402 |
 | 1        | U1         | Texas  Instruments            | TPS54332DDAR            | TEXAS  INSTRUMENTS - TPS54332DDAR - DC/DC CONV, BUCK, 1MHZ, SOIC-8 |
+| 2        | ./.        | Würth Elektronik              | 9774050151R             | RND STANDOFF M2.5X0.45 STEEL 5MM                             |
 
 
 
